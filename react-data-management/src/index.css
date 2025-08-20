@@ -1,0 +1,18 @@
+/*  
+# design kaga oru package dwn panni irukom .ethula iruka package "NORMALIZE CSS" use panna porom
+
+npm i @blueprintjs/core
+
+~ that symbol will help to acces node_module next athukulla iruka file a e2kum 
+*/
+
+@import "~normalize.css";
+@import "~@blueprintjs/core/lib/css/blueprint.css";
+/*@import "~@blueprintjs/core/lib/css/blueprint-icons.css"; */
+
+
+
+body{
+  display: flex;
+  justify-content: center;
+}
